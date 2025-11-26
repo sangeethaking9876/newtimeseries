@@ -1,0 +1,1 @@
+"{'units': <hyperopt.pyll.base.Apply object at 0x7a1ccdfaa9f0>, 'dropout': <hyperopt.pyll.base.Apply object at 0x7a1cce173f80>, 'lr': <hyperopt.pyll.base.Apply object at 0x7a1ccdfaebd0>, 'batch_size': <hyperopt.pyll.base.Apply object at 0x7a1ccdfb27e0>, 'epochs': <hyperopt.pyll.base.Apply object at 0x7a1ccdfb24e0>}"

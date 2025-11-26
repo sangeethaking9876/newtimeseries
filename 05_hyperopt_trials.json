@@ -1,0 +1,55 @@
+[
+  {
+    "state": 2,
+    "tid": 0,
+    "spec": null,
+    "result": {
+      "loss": 0.07850375472702703,
+      "status": "ok"
+    },
+    "misc": {
+      "tid": 0,
+      "cmd": [
+        "domain_attachment",
+        "FMinIter_Domain"
+      ],
+      "workdir": null,
+      "idxs": {
+        "batch_size": [
+          0
+        ],
+        "dropout": [
+          0
+        ],
+        "epochs": [
+          0
+        ],
+        "lr": [
+          0
+        ],
+        "units": [
+          0
+        ]
+      },
+      "vals": {
+        "batch_size": [
+          2
+        ],
+        "dropout": [
+          0.23479831339611615
+        ],
+        "epochs": [
+          1
+        ],
+        "lr": [
+          0.0024685764634225114
+        ],
+        "units": [
+          2
+        ]
+      }
+    },
+    "exp_key": null,
+    "owner": null,
+    "version": 0,
+    "book_time": 
